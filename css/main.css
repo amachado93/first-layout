@@ -1,3 +1,7 @@
+/*** web fonts ***/
+
+@import url(https://fonts.googleapis.com/css?family=Lato:400);
+
 /*** basic reset ***/
 
 body, h1, h2, ul, ol {
