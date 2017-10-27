@@ -15,6 +15,11 @@ body {
   width: 80%;
 }
 
+header {
+  display: flex;
+  justify-content: space-between;
+}
+
 li {
   list-style-type: none;
 }
