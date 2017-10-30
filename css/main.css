@@ -15,7 +15,7 @@ body {
   font-size: 1em;
   margin: 20px auto 0;
   width: 80%;
-  background-color: #2B305A;
+  background-color: #2d2d2d;
   color: darkgrey;
 }
 
@@ -55,7 +55,17 @@ div>div {
   padding: .5em;
 }
 
-.creatures{
+div>img {
+  width: 70%;
+  height: auto;
+}
+
+div>h2 {
+  width: 50%;
+  margin: 0 auto;
+}
+
+.creatures {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
