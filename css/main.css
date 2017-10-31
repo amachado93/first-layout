@@ -51,6 +51,11 @@ nav a {
   text-decoration: none;
 }
 
+main>h1 {
+  width: 35%;
+  margin: 1em auto;
+}
+
 div>div {
   padding: .5em;
 }
